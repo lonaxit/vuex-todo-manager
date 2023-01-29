@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuex_todo_manager"]=self["webpackChunkvuex_todo_manager"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var u=e(6252);const t={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),o=[r];function s(n,a){return(0,u.wg)(),(0,u.iD)("div",t,o)}var c=e(3744);const i={},d=(0,c.Z)(i,[["render",s]]);var f=d}}]);
+//# sourceMappingURL=about.1f5053a5.js.map
